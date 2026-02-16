@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohamed%20Idris&fontAlign=50&fontAlignY=40&color=gradient" />
+<!-- Animated typing banner -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;C%2B%2B+Learner;Problem+Solver;Mohamed+Idris" />
 
 # 👋 Mohamed Idris | محمد إدريس
 
