@@ -1,8 +1,6 @@
 
 <div align="center">
-
-<!-- Animated coding banner GIF -->
-<img src="https://i.ibb.co/znxF9sY/Mohamed-Idris-Banner.gif" alt="Mohamed Idris" width="60%" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
 
 # 👋 Mohamed Idris | محمد إدريس
 
