@@ -23,7 +23,10 @@
 
 
 ---
+</div>
+
 ##💻 Featuresd projects
+---
 
 ## 📫 Contact Me
 
