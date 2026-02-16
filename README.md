@@ -21,10 +21,16 @@
 
 ---
 
-## 💻 Featured Projects
 
-- Coming soon...
+### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="120" />
 
+Here are some projects I built to practice logic and algorithms:
+
+- **[ ✂️ Stone - Paper - Scissor ]()**
+  - *A classic game implementation against the computer using C++ logic.*
+
+- **[ 🧮 Math Game ]()**
+  - *A console-based game to test mental math skills with different difficulty levels.*
 ---
 
 ## 📫 Contact Me
