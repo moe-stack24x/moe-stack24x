@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Mohamed%20Idris&fontAlign=50&fontAlignY=40&color=gradient" />
+
 # 👋 Mohamed Idris | محمد إدريس
 
 💻 Beginner Programmer  
@@ -25,10 +27,9 @@
 
 ---
 
-## 📫 Contact Me
+## 🌐 My GitHub
 
-[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
