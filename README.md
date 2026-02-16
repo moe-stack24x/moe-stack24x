@@ -14,24 +14,16 @@
 
 
 
-## 🛠️ Technologies I Use & Learn
+## 🛠️ Skils & Tools
 
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
+##💻 Featuresd projects
 
 ## 📫 Contact Me
 
