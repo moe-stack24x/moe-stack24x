@@ -1,7 +1,7 @@
+
 <div align="center">
 
-<!-- Animated typing banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Future+Software+Engineer;C%2B%2B+Learner;Problem+Solver;Mohamed+Idris" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Mohamed Idris" width="60%" />
 
 # 👋 Mohamed Idris | محمد إدريس
 
