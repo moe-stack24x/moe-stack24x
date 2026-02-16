@@ -2,7 +2,7 @@
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
 
-# 👋 Mohamed Idris|محمد ادريس
+# 👋 Mohamed Idris | محمد ادريس
 
 💻 Beginner programmer learning software development  
 🚀 Improving my skills every day and exploring new technologies  
