@@ -26,7 +26,7 @@
 
 Here are some projects I built to practice logic and algorithms:
 
-- **[ ✂️ Stone - Paper - Scissor ](https://github.com/moe-stack24x/-Project-1-Stone-Paper-Scissor)**
+- **[ ✂️ Stone - Paper - Scissor ](https://github.com/moe-stack24x/Project-1-Stone-Paper-Scissor)**
   - *A classic game implementation against the computer using C++ logic.*
 
 - **[ 🧮 Math Game ](https://github.com/moe-stack24x/Project-2-Math-Game)**
