@@ -1,8 +1,8 @@
 
 <div align="center">
 
-<!-- Cool coding banner -->
-<img src="https://i.ibb.co/2dFZ7zS/Mohamed-Idris-GitHub-Banner.png" alt="Mohamed Idris" width="60%" />
+<!-- Animated coding banner GIF -->
+<img src="https://i.ibb.co/znxF9sY/Mohamed-Idris-Banner.gif" alt="Mohamed Idris" width="60%" />
 
 # 👋 Mohamed Idris | محمد إدريس
 
