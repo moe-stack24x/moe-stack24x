@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
 
 # 👋 Mohamed Idris | محمد إدريس
 
@@ -27,8 +27,9 @@
 
 ---
 
-## 🌐 My GitHub
+## 📫 Contact Me
 
+[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
