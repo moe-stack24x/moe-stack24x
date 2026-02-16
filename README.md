@@ -1,7 +1,8 @@
 
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Mohamed Idris" width="60%" />
+<!-- Cool coding banner -->
+<img src="https://i.ibb.co/2dFZ7zS/Mohamed-Idris-GitHub-Banner.png" alt="Mohamed Idris" width="60%" />
 
 # 👋 Mohamed Idris | محمد إدريس
 
