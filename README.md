@@ -1,38 +1,34 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+# 👋 Mohamed Idris | محمد إدريس
 
-# 👋 Mohamed Idris | محمد ادريس
-
-💻 Beginner programmer  
-🚀 Im currently walking the path of Abu-Hadhoud Roadmap
-💻 Foucused on mastering C++ fundamentals,Algorathms,and Logic Building using Visual Studio
+💻 Beginner Programmer  
+🚀 Currently following the Abu-Hadhoud Roadmap  
+🧠 Focused on mastering C++ fundamentals, algorithms, and logic building using Visual Studio  
 🎯 My goal is to become a professional developer and build useful projects  
 
 </div>
 
+---
 
+## 🛠️ Skills & Tools
 
-
-## 🛠️ Skils & Tools
-
-
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
 
-
-
-
 ---
-</div>
 
-##💻 Featuresd projects
+## 💻 Featured Projects
+
+- Coming soon...
+
 ---
 
 ## 📫 Contact Me
 
-- Email: Mohammad24x.kl@gmail.com 
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
 
 ---
 
