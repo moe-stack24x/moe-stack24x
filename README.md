@@ -41,7 +41,7 @@ Here are some projects I built to practice logic and algorithms:
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://github.com/moe-stack24x)
 
 ---
 
