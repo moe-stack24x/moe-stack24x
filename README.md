@@ -32,7 +32,7 @@ Here are some projects I built to practice logic and algorithms:
 
   * *A console-based game to test mental math skills with different difficulty levels.*
 
-* **[ 🏦 Bank System ](https://github.com/moe-stack24x/cuse-7-project-Bank-System)**
+* **[ 🏦 Bank System ](https://github.com/moe-stack24x/Simple-Bank-System-)**
 
   * *A simple console-based bank management system built with C++.*
 
