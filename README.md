@@ -38,7 +38,7 @@ Here are some projects I built to practice logic and algorithms:
 
 ---
 
-## 📫 Contact Me
+
 
 ## 📫 Contact Me
 
