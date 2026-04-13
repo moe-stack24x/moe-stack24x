@@ -36,14 +36,17 @@ Here are some projects I built to practice logic and algorithms:
 
   * *A simple console-based bank management system built with C++.*
 
+* **[ 🧩 Bank System Extension ](https://github.com/moe-stack24x/Simple-Bank-System-Extension1)**
+
+  * *An extension of the bank system with additional features and improved functionality.*
+
 ---
-
-
 
 ## 📫 Contact Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/moe-stack24x)
+
 ---
 
 <div align="center">
