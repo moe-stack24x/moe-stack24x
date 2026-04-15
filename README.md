@@ -40,7 +40,7 @@ Here are some projects I built to practice logic and algorithms:
 
   * *An extension of the bank system with additional features and improved functionality.*
 
-* **[ 🏧 ATM System ](https://github.com/moe-stack24x/ATM-System)**
+* **[ 🏧 ATM System ](https://github.com/moe-stack24x/Simple-ATM-System)**
 
   * *A console-based ATM system with login, withdrawals, deposits, and file handling.*
 
