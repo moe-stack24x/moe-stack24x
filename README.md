@@ -44,12 +44,16 @@ Here are some projects I built to practice logic and algorithms:
 
   * *A console-based ATM system with login, withdrawals, deposits, and file handling.*
 
+* **[ 🏛️ Bank Management System OOP ](https://github.com/moe-stack24x/Bank-Management-System-OOP)**
+
+  * *A comprehensive banking system built with C++ using Object-Oriented Programming (OOP), featuring client management, transactions, user permissions, login tracking, and currency exchange.*
+
 ---
 
 ## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/moe-stack24x)
+[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/moe-stack24x)
 
 ---
 
