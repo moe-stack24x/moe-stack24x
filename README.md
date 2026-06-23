@@ -3,7 +3,8 @@
 
 # 👋 Mohamed Idris | محمد إدريس
 
-💻 Beginner Programmer  
+🎓 Bachelor's degree student in English Literature  
+💻 Self-taught Programmer  
 🚀 Currently following the Abu-Hadhoud Roadmap  
 🧠 Focused on mastering C++ fundamentals, algorithms, and logic building using Visual Studio  
 🎯 My goal is to become a professional developer and build useful projects  
