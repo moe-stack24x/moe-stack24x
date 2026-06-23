@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace"  width="40%"/><br> 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
 
 # 👋 Mohamed Idris | محمد إدريس
 
-💻 Beginner Programmer
-🚀 Currently following the Abu-Hadhoud Roadmap
-🧠 Focused on mastering C++ fundamentals, algorithms, and logic building using Visual Studio
-🎯 My goal is to become a professional developer and build useful projects
+💻 Beginner Programmer  
+🚀 Currently following the Abu-Hadhoud Roadmap  
+🧠 Focused on mastering C++ fundamentals, algorithms, and logic building using Visual Studio  
+🎯 My goal is to become a professional developer and build useful projects  
 
 </div>
 
@@ -14,9 +14,18 @@
 
 ## 🛠️ Skills & Tools
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat\&logo=c%2B%2B\&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat\&logo=visualstudio\&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=flat\&logo=git\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+
+---
+
+## 🏆 Certificates
+
+📜 I have completed multiple programming courses from ProgrammingAdvices.
+
+👉 View all my certificates here:  
+🔗 [Certificates Repository](https://github.com/moe-stack24x/Certificates)
 
 ---
 
@@ -24,36 +33,30 @@
 
 Here are some projects I built to practice logic and algorithms:
 
-* **[ ✂️ Stone - Paper - Scissor ](https://github.com/moe-stack24x/Project-1-Stone-Paper-Scissor)**
+* **[ ✂️ Stone - Paper - Scissor ](https://github.com/moe-stack24x/Project-1-Stone-Paper-Scissor)**  
+  *A classic game implementation against the computer using C++ logic.*
 
-  * *A classic game implementation against the computer using C++ logic.*
+* **[ 🧮 Math Game ](https://github.com/moe-stack24x/Project-2-Math-Game)**  
+  *A console-based game to test mental math skills with different difficulty levels.*
 
-* **[ 🧮 Math Game ](https://github.com/moe-stack24x/Project-2-Math-Game)**
+* **[ 🏦 Bank System ](https://github.com/moe-stack24x/Simple-Bank-System-)**  
+  *A simple console-based bank management system built with C++.*
 
-  * *A console-based game to test mental math skills with different difficulty levels.*
+* **[ 🧩 Bank System Extension ](https://github.com/moe-stack24x/Simple-Bank-System-Extension1)**  
+  *Improved version of the bank system with extra features.*
 
-* **[ 🏦 Bank System ](https://github.com/moe-stack24x/Simple-Bank-System-)**
+* **[ 🏧 ATM System ](https://github.com/moe-stack24x/Simple-ATM-System)**  
+  *ATM system with login, withdrawals, deposits, and file handling.*
 
-  * *A simple console-based bank management system built with C++.*
-
-* **[ 🧩 Bank System Extension ](https://github.com/moe-stack24x/Simple-Bank-System-Extension1)**
-
-  * *An extension of the bank system with additional features and improved functionality.*
-
-* **[ 🏧 ATM System ](https://github.com/moe-stack24x/Simple-ATM-System)**
-
-  * *A console-based ATM system with login, withdrawals, deposits, and file handling.*
-
-* **[ 🏛️ Bank Management System OOP ](https://github.com/moe-stack24x/Bank-Management-System-OOP)**
-
-  * *A comprehensive banking system built with C++ using Object-Oriented Programming (OOP), featuring client management, transactions, user permissions, login tracking, and currency exchange.*
+* **[ 🏛️ Bank Management System OOP ](https://github.com/moe-stack24x/Bank-Management-System-OOP)**  
+  *OOP-based banking system with advanced features and user management.*
 
 ---
 
 ## 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat\&logo=gmail\&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/moe-stack24x)
+[![Gmail](https://img.shields.io/badge/Gmail-Mohammad24x.kl%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Mohammad24x.kl@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-My%20Profile-181717?style=flat&logo=github&logoColor=white)](https://github.com/moe-stack24x)
 
 ---
 
