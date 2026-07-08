@@ -52,17 +52,6 @@
 
 ---
 
-## 📈 GitHub Metrics Dashboard
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/moe-stack24x/moe-stack24x/main/github-metrics.svg" width="100%"/>
-
-</div>
----
-
-
-
 ### 💻 Featured Projects
 
 Here are some projects I built to practice programming, logic, and desktop application development:
