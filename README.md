@@ -37,18 +37,17 @@
 ---
 
 
-
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moe-stack24x&show_icons=true&theme=tokyonight" width="48%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=moe-stack24x&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moe-stack24x&layout=compact&theme=tokyonight" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=moe-stack24x&theme=tokyonight&hide_border=true" width="48%"/>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=moe-stack24x&theme=tokyonight" width="60%"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=moe-stack24x&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 
 </div>
 
