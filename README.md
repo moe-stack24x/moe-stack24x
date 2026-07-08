@@ -55,35 +55,49 @@
 
 ### 💻 Featured Projects
 
-Here are some projects I built to practice programming, logic, and desktop application development:
+Here are some projects I built to practice programming, problem-solving, and desktop application development:
 
-* **[ ✂️ Stone - Paper - Scissor ](https://github.com/moe-stack24x/Project-1-Stone-Paper-Scissor)**  
-  *A classic game implementation against the computer using C++ logic.*
+### 🖥️ C++ Projects
 
-* **[ 🧮 Math Game ](https://github.com/moe-stack24x/Project-2-Math-Game)**  
-  *A console-based game to practice programming logic and calculations.*
+* **[✂️ Stone - Paper - Scissor](https://github.com/moe-stack24x/Project-1-Stone-Paper-Scissor)**  
+  *A classic game implementation against the computer using C++.*
 
-* **[ 🏦 Bank System ](https://github.com/moe-stack24x/Simple-Bank-System-)**  
-  *A simple console-based bank management system built with C++.*
+* **[🧮 Math Game](https://github.com/moe-stack24x/Project-2-Math-Game)**  
+  *A console-based game for practicing programming logic and calculations.*
 
-* **[ 🏧 ATM System ](https://github.com/moe-stack24x/Simple-ATM-System)**  
-  *ATM system with login, transactions, and file handling.*
+* **[🏦 Bank System](https://github.com/moe-stack24x/Simple-Bank-System-)**  
+  *A simple bank management system built using C++.*
 
-* **[ 🏛️ Bank Management System OOP ](https://github.com/moe-stack24x/Bank-Management-System-OOP)**  
-  *Object-Oriented Programming based banking system.*
+* **[🧩 Bank System Extension](https://github.com/moe-stack24x/Simple-Bank-System-Extension1)**  
+  *An enhanced version of the bank system with additional features.*
 
-* **[ ⏱️ Countdown Timer ](https://github.com/moe-stack24x/Countdown-Timer)**  
-  *A C# Windows Forms countdown timer application.*
+* **[🏧 ATM System](https://github.com/moe-stack24x/Simple-ATM-System)**  
+  *ATM simulation with login, transactions, and file handling.*
 
-* **[ ❌⭕ Tic Tac Toe Game ](https://github.com/moe-stack24x/Tic-Tac-Toe-Game)**  
+* **[🏛️ Bank Management System OOP](https://github.com/moe-stack24x/Bank-Management-System-OOP)**  
+  *An Object-Oriented bank management system with advanced features.*
+
+---
+
+### 🪟 C# Windows Forms Projects
+
+* **[🍕 Pizza Management System](https://github.com/moe-stack24x/Pizza-Management-System)**  
+  *A Windows Forms application for managing pizza orders through an interactive interface.*
+
+* **[❌⭕ Tic Tac Toe Game](https://github.com/moe-stack24x/Tic-Tac-Toe-Game-project)**  
   *A two-player Tic Tac Toe game built using C# Windows Forms.*
 
-* **[ 🏫 School Management System ](https://github.com/moe-stack24x/School-Management-System)**  
-  *A Windows Forms application for managing students with login and student management features.*
+* **[📝 To-Do List App](https://github.com/moe-stack24x/To-Do-List-App)**  
+  *A simple task management application for organizing daily activities.*
 
-* **[ 🧮 Simple Calculator ](https://github.com/moe-stack24x/Simple-Calculator-WinForms)**  
-  *A simple calculator application built using C# Windows Forms.*
+* **[⏱️ Countdown Timer](https://github.com/moe-stack24x/Countdown-Timer-App)**  
+  *A countdown timer application built with C# Windows Forms.*
 
+* **[🏫 School Management System](https://github.com/moe-stack24x/School-Management-System)**  
+  *A Windows Forms application featuring user login and student management.*
+
+* **[🧮 Simple Calculator](https://github.com/moe-stack24x/Simple-Calculator-WinForms)**  
+  *A simple calculator supporting basic arithmetic operations.*
 ---
 
 ## 📫 Contact Me
