@@ -42,6 +42,10 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=moe-stack24x&show_icons=true&theme=tokyonight" width="48%"/>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=moe-stack24x&theme=tokyonight" width="48%"/>
+
+<br><br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moe-stack24x&layout=compact&theme=tokyonight" width="48%"/>
 
 </div>
@@ -52,11 +56,12 @@
 
 <div align="center">
 
-<img src="https://github.com/moe-stack24x/moe-stack24x/blob/main/github-metrics.svg" alt="GitHub Metrics"/>
+<img src="https://raw.githubusercontent.com/moe-stack24x/moe-stack24x/main/github-metrics.svg" width="100%"/>
 
 </div>
-
 ---
+
+
 
 ### 💻 Featured Projects
 
