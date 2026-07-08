@@ -48,7 +48,7 @@
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=moe-stack24x&theme=tokyonight" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=moe-stack24x&theme=tokyonight" width="60%"/>
 
 </div>
 
